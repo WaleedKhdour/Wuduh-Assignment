@@ -5,8 +5,8 @@ This project automates the testing of the `https://reqres.in/api/users` endpoint
 ## Project Features
 
 - **Automated Tests**:
-    - Validates status code, response time, schema structure, and user details dynamically.
-    - Additional test to validate details of the first user.
+    - Validates status code, response time, schema structure, and user details list dynamically.
+    - Validates status code, response time, schema structure, and specific user details.
 - **Schema Validation**:
     - Ensures the response matches the pre-defined JSON schema.
 
@@ -18,4 +18,5 @@ This project automates the testing of the `https://reqres.in/api/users` endpoint
 
 
 ## ScreenShot
-![PassedTestResult.png](PassedTestResult.png)
+![PassedTestResult](https://github.com/user-attachments/assets/4c80e342-209e-4ba0-98ab-6d7bbfa7454a)
+
